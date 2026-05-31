@@ -1,0 +1,3 @@
+Arduino IDE
+ESP8266 Board Package
+Firebase Library
